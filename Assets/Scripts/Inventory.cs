@@ -46,6 +46,7 @@ public class Inventory : MonoBehaviour
     {
         if (other.CompareTag("Item"))
         {
+            print(other.name);
             itemPicker = other.gameObject;
             AddItem(itemPicker);
         }

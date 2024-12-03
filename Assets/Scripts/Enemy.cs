@@ -22,6 +22,11 @@ public class Enemy : MonoBehaviour
     public float patrolInterval = 5f;
     public float patrolTimer = 0f;
 
+    [Header("Lut")]
+    public GameObject water;
+    public GameObject bread;
+
+
     private void Start()
     {
         agent = GetComponent<NavMeshAgent>();
@@ -121,6 +126,8 @@ public class Enemy : MonoBehaviour
         anim.CrossFade("Z_FallingBack");
         OnEnemyDestroyed?.Invoke();
         Destroy(gameObject, 2f);
+        Instantiate(bread, transform.position, Quaternion.identity);
+        Instantiate(water, transform.position, Quaternion.identity);
     }
 
     public static Vector3 RandomNavSphere(Vector3 origin, float distance, int layerMask)

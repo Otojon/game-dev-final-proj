@@ -120,6 +120,11 @@ public class Player : MonoBehaviour
         thirst -= decreaseRate;
         thirst = Mathf.Clamp(thirst, 0, maxThirst);
     }
+    public void Eat(float decreaseRate)
+    {
+        thirst -= decreaseRate;
+        thirst = Mathf.Clamp(hunger, 0, maxHunger);
+    }
 
     private void OnTriggerEnter(Collider other)
     {
