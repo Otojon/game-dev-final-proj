@@ -26,7 +26,7 @@ Welcome to the **Survival Shooter Game**! This project is a thrilling single-pla
 ## Game Mechanics
 
 1. **Player Movement**: Navigate using WASD keys and aim with the mouse.
-2. **Shooting Mechanism**: Left-click to shoot and eliminate enemies.
+2. **Shooting Mechanism**: Right-click to shoot and eliminate enemies.
 3. **Health System**: Player health decreases upon enemy attacks; collect health packs to restore it.
 4. **Scoring System**: Earn points for every enemy defeated. Compete for the highest score!
 5. **Wave System**: Survive through waves of enemies that increase in difficulty.
