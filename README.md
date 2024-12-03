@@ -86,7 +86,7 @@ Survive as long as possible while defeating enemies and managing resources.
 - Strategically navigate the map to avoid being surrounded.
 - 
 ## Acknowledgments
-- **Developers**: Your Team's Name
+- **Developers**: Akhborkhuja' team
 - **Special Thanks**: Unity community and external asset creators.
 - **Inspiration**: Classic arcade survival shooters and modern action games.
 
