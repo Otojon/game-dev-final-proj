@@ -9,7 +9,7 @@
 - **Temur Umidov** - 210023  
 # Survival Shooter Game
 
-Welcome to the **Survival Shooter Game**! This project is a thrilling single-player survival shooter game where players fend off waves of enemies, manage resources, and explore dynamic environments to survive as long as possible.
+Welcome to the **Survival Shooter Game**! This project is a single-player survival shooter game where players fend off waves of enemies, manage resources, and explore dynamic environments to survive as long as possible.
 
 ---
 
@@ -26,7 +26,7 @@ Welcome to the **Survival Shooter Game**! This project is a thrilling single-pla
 
 1. **Player Movement**: Navigate using WASD keys and aim with the mouse.
 2. **Shooting Mechanism**: Right-click to shoot and eliminate enemies.
-3. **Health System**: Player health decreases upon enemy attacks; collect health packs to restore it.
+3. **Health System**: Player health decreases upon enemy attacks; collect food packs to restore it.
 
 ---
 
