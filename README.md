@@ -84,6 +84,12 @@ Survive as long as possible while defeating enemies and managing resources.
 ### Tips
 - Collect power-ups to gain an edge over enemies.
 - Strategically navigate the map to avoid being surrounded.
+- 
+## Acknowledgments
+- **Developers**: Your Team's Name
+- **Special Thanks**: Unity community and external asset creators.
+- **Inspiration**: Classic arcade survival shooters and modern action games.
+
 
 
 
