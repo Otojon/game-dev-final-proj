@@ -77,9 +77,8 @@ Survive as long as possible while defeating enemies and managing resources.
 
 ### Controls
 - **Move**: `W`, `A`, `S`, `D`
-- **Shoot**: Left Mouse Button
-- **Reload**: `R`
-- **Interact**: `E`
+- **Shoot**: Right Mouse Button
+- **Inventar**: `I`
 
 ### Tips
 - Collect power-ups to gain an edge over enemies.
