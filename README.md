@@ -15,11 +15,10 @@ Welcome to the **Survival Shooter Game**! This project is a thrilling single-pla
 
 ## Features
 
-- **Dynamic Gameplay**: Fight against waves of increasingly challenging enemies.
-- **Resource Management**: Collect ammo, health packs, and power-ups to survive.
+- **Dynamic Gameplay**: Fight against waves of enemies.
+- **Resource Management**: Collect food and drink packs to survive.
 - **Engaging Environments**: Navigate through detailed maps with interactive objects.
-- **Level Progression**: Survive longer to unlock tougher challenges and rewards.
-- **Customizable Weapons**: Upgrade and customize your arsenal for better combat efficiency.
+- **Level Progression**: Survive longer to unlock challenges and rewards.
 
 ---
 
